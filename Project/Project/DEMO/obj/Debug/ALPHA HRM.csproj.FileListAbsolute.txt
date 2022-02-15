@@ -1,0 +1,30 @@
+C:\DEMO\DEMO\DEMO\bin\Debug\DEMO.exe.config
+C:\DEMO\DEMO\DEMO\bin\Debug\DEMO.exe
+C:\DEMO\DEMO\DEMO\bin\Debug\DEMO.pdb
+C:\DEMO\DEMO\DEMO\obj\Debug\ALPHA HRM.csprojAssemblyReference.cache
+C:\DEMO\DEMO\DEMO\obj\Debug\DEMO.Login.resources
+C:\DEMO\DEMO\DEMO\obj\Debug\DEMO.HOME.resources
+C:\DEMO\DEMO\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\DEMO\DEMO\DEMO\obj\Debug\ALPHA HRM.csproj.GenerateResource.cache
+C:\DEMO\DEMO\DEMO\obj\Debug\DEMO.exe
+C:\DEMO\DEMO\DEMO\obj\Debug\DEMO.pdb
+C:\DEMO\DEMO\DEMO\obj\Debug\DEMO.Employee_Reg.resources
+C:\DEMO\DEMO\DEMO\obj\Debug\DEMO.Employee.resources
+F:\Project\DEMO\DEMO\obj\Debug\ALPHA HRM.csprojAssemblyReference.cache
+F:\Project\DEMO\DEMO\obj\Debug\DEMO.Employee.resources
+F:\Project\DEMO\DEMO\obj\Debug\DEMO.Employee_Reg.resources
+F:\Project\DEMO\DEMO\obj\Debug\DEMO.Login.resources
+F:\Project\DEMO\DEMO\obj\Debug\DEMO.HOME.resources
+F:\Project\DEMO\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\Project\DEMO\DEMO\obj\Debug\ALPHA HRM.csproj.GenerateResource.cache
+F:\Project\DEMO\DEMO\obj\Debug\DEMO.exe
+F:\Project\DEMO\DEMO\obj\Debug\DEMO.pdb
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\ALPHA HRM.csprojAssemblyReference.cache
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\DEMO.Employee.resources
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\DEMO.Employee_Reg.resources
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\DEMO.Login.resources
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\DEMO.HOME.resources
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\ALPHA HRM.csproj.GenerateResource.cache
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\DEMO.exe
+C:\Users\Ferdous\Documents\Project C#\Project\DEMO\DEMO\obj\Debug\DEMO.pdb
